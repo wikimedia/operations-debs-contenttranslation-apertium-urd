@@ -1,0 +1,13 @@
+Description: Remove libdir from pkg-config
+Index: b/apertium-urd.pc.in
+===================================================================
+--- a/apertium-urd.pc.in
++++ b/apertium-urd.pc.in
+@@ -1,7 +1,5 @@
+ prefix=@prefix@
+ exec_prefix=${prefix}
+-libdir=@libdir@
+-dir=@libdir@/apertium/apertium-urd
+ srcdir=@datarootdir@/apertium/apertium-urd
+ 
+ Name: apertium-urd

@@ -1,3 +1,12 @@
+apertium-urd (0.1.0~r61311-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream release.
+  * Rebuild for Jessie.
+  * Cleanup debian/rules.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 27 Jun 2016 18:55:26 +0530
+
 apertium-urd (0.1.0~r57551-1) trusty; urgency=low
 
   [ Tino Didriksen ]
