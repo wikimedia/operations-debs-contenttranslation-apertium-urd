@@ -1,3 +1,9 @@
+apertium-urd (0.1.0~r61311-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Updated dependency on cg3.
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 10 Jan 2018 11:46:11 +0530
+
 apertium-urd (0.1.0~r61311-1+wmf1) jessie-wikimedia; urgency=low
 
   * New upstream release.
